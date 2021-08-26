@@ -1,4 +1,4 @@
-# Переключатель 🌓 цветовой схемы: радиокнопки, CSS-фильтры и инверсия, SVG-иконки, JS и localStorage
+# 🌓 color scheme switcher: radiobuttons, CSS-filters and inversion, SVG-icons, JS and localStorage
 
 - [DEMO](https://leroviten.github.io/color-scheme-switcher/)
 - [filter option in CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/filter)
